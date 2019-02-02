@@ -1,4 +1,9 @@
-# vue-backoffice
+# vue-cli-3 Boilerplate
+
+## Feauters
+- i18n support
+- scss global variables
+- Buefy UI
 
 ## Project setup
 ```
