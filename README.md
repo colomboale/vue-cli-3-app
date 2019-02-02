@@ -1,9 +1,10 @@
 # vue-cli-3 Boilerplate
 
 ## Feauters
+- Typescript support
 - i18n support
+- Buefy UI (+ vars customization)
 - scss global variables
-- Buefy UI
 
 ## Project setup
 ```
