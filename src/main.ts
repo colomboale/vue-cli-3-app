@@ -7,8 +7,7 @@ import './registerServiceWorker';
 Vue.config.productionTip = false;
 
 import Buefy from 'buefy';
-import 'buefy/dist/buefy.css';
-
+import 'buefy/src/scss/buefy-build.scss';
 Vue.use(Buefy);
 
 new Vue({
